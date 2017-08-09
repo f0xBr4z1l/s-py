@@ -1,0 +1,20 @@
+simples spam criado em python3, precisa de uma conta gmail
+crie uma lista de emails
+ex..
+yahho@yahoo.com
+gmail@gmail.com
+hotmail@hotmail.com
+é depois é so definir a mensagem
+criado pelo F0x_Br4z1l
+
+simple spam created in python3, need gmail account
+create a mailing list
+yahoo@yahoo.com
+gmail@gmail.com
+hotmails@hotmail.com
+It is then and only the message is set
+
+Create by F0x_Br4z1l
+Para mais scripts, For more scripts 
+github: https://github.com/f0xBr4z1l
+
